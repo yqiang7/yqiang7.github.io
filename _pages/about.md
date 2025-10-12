@@ -27,7 +27,7 @@ latest_posts:
 I'm a fourth-year undergraduate student studying Mathematics and Computer Science at [Georgia Tech](https://www.gatech.edu/), where
 I've been working on dispersive partial differential equations with Dr. [Gong Chen](https://sites.google.com/site/cg66math/).
 
-My current research interests are generally in number theory and analysis, with particular interests in analytic number theory, automorphic forms, harmonic analysis, and elliptic curves. In the past, I have also worked on partial differential equations, finite fields, and mathematical cryptography.
+My current research interests are generally in number theory and analysis, with particular interests in analytic number theory, automorphic forms, harmonic analysis, and elliptic curves. In the past, I have worked on partial differential equations, finite fields, and mathematical cryptography.
 
 On the computer science side, I have interests in computer graphics, algorithms, and cybersecurity.
 
