@@ -19,7 +19,7 @@ The following are notes I have live-TeXed in various courses. Any typographical 
 
 [MATH 3235: Probability Theory](https://yqiang7.github.io/gt-math3235-notes/master.pdf)
 
-[MATH 6122: Algebraic Number Theory](https://yqiang7.github.io/gt-math6122-notes/master.pdf) (currently missing Lecture 22)
+[MATH 6122: Algebraic Number Theory](https://yqiang7.github.io/gt-math6122-notes/master.pdf)
 
 [MATH 6441: Algebraic Topology](https://yqiang7.github.io/gt-math6441-notes/master.pdf)
 
