@@ -25,10 +25,10 @@ The following are notes I have live-TeXed in various courses. Any typographical 
 
 [MATH 8803: Nonlinear Dispersive Equations](https://yqiang7.github.io/gt-math8803-che-spring2025-notes/master.pdf)
 
-[MATH 4150: Introduction to Number Theory](https://yqiang7.github.io/gt-math4150-notes/master.pdf) (in progress)
+[MATH 4150: Introduction to Number Theory](https://yqiang7.github.io/gt-math4150-notes/master.pdf)
 
-[MATH 6421: Algebraic Geometry I](https://yqiang7.github.io/gt-math6421-notes/master.pdf) (in progress)
+[MATH 6421: Algebraic Geometry I](https://yqiang7.github.io/gt-math6421-notes/master.pdf) (currently missing some lectures)
 
-[MATH 7337: Harmonic Analysis](https://yqiang7.github.io/gt-math7337-notes/master.pdf) (in progress)
+[MATH 7337: Harmonic Analysis](https://yqiang7.github.io/gt-math7337-notes/master.pdf) (currently missing many lectures)
 
-[MATH 8803: Representation Theory I](https://yqiang7.github.io/gt-math8803-zei-fall2025-notes/master.pdf) (in progress)
+[MATH 8803: Representation Theory I](https://yqiang7.github.io/gt-math8803-zei-fall2025-notes/master.pdf)
