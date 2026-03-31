@@ -13,6 +13,8 @@ The following are notes I have live-TeXed in various courses. Any typographical 
 
 [MATH 4318: Analysis II](https://yqiang7.github.io/gt-math4318-notes/master.pdf)
 
+[MATH 4107: Abstract Algebra I]({% link assets/pdf/MATH4107.pdf %})
+
 [MATH 4108: Abstract Algebra II](https://yqiang7.github.io/gt-math4108-notes/master.pdf)
 
 [MATH 4431: Introduction to Topology](https://yqiang7.github.io/gt-math4431-notes/master.pdf)
