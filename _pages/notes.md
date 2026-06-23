@@ -35,6 +35,6 @@ The following are notes I have live-TeXed in various courses. Any typographical 
 
 [MATH 8803: Representation Theory I](https://yqiang7.github.io/gt-math8803-zei-fall2025-notes/master.pdf)
 
-[MATH 6422: Algebraic Geometry II](https://yqiang7.github.io/gt-math6422-notes/master.pdf) (in progress)
+[MATH 6422: Algebraic Geometry II](https://yqiang7.github.io/gt-math6422-notes/master.pdf)
 
-[MATH 8803: Representation Theory II](https://yqiang7.github.io/gt-math8803-zei-spring2026-notes/master.pdf) (in progress)
+[MATH 8803: Representation Theory II](https://yqiang7.github.io/gt-math8803-zei-spring2026-notes/master.pdf)
