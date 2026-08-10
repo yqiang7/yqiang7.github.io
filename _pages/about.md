@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm an incoming PhD student in Mathematics at Duke University, starting in Fall 2026.
+Hi! I'm an incoming PhD student in Mathematics at [Duke University](https://www.duke.edu/), starting in Fall 2026.
 Previously, I was an undergraduate student studying Mathematics and Computer Science at [Georgia Tech](https://www.gatech.edu/), where
 I worked on dispersive partial differential equations with Dr. [Gong Chen](https://sites.google.com/site/cg66math/).
 
